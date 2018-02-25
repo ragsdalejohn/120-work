@@ -19,4 +19,4 @@ John Ragsdale
 ## 4. I would like to spend more time becoming comfotable with .md language and be able to know the prompts off the top of my head. This will come with time and practice.
 
 ## 5. Being so late into this I did not have the chance to assist other with issues, but hope to onced I am caught up.
-![alt text]()
+![alt text](https://github.com/ragsdalejohn/120-work/blob/master/HW-2/Screen%20Shot%202018-02-25%20at%202.29.06%20PM.png)
