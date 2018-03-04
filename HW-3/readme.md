@@ -17,4 +17,4 @@ I was late with this assignment and could help no one, and no further discussion
 
 Here you go!
 
-![This is my final HW-3 Sketch](imgs/HW-3_Image.png) 
+![This is my final HW-3 Sketch](imgs/hw-3_Image.png) 
