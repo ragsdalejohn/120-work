@@ -1,6 +1,6 @@
 John Ragsdale, 50
 
-[ "Hello World!"" ](https://yourusername.github.io/120-work/HW-3/)
+[ "Hello World!"" ](https://ragsdalejohn.github.io/120-work/HW-3/)
 
 
 # HW-# Response
@@ -17,4 +17,4 @@ I was late with this assignment and could help no one, and no further discussion
 
 Here you go!
 
-![This is my final HW-3 Sketch](imgs/hw-3_Image.png) 
+![This is my final HW-3 Sketch](imgs/hw-3_Image.png)
