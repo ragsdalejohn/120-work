@@ -21,5 +21,5 @@ function draw() {
 
   // Nose
     strokeweight( 30 );
-    point( 0, 0 ); 
+    point( 100, 100 ); 
 }
