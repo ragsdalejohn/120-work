@@ -13,13 +13,15 @@ function draw() {
   // move to center of canvas
   translate( 250, 250 );
 
+  // Nose
+    strokeweight( 30 );
+    point( 100, 100 );
+
   // HEAD
   stroke( 0 );
   fill( "orange" );
   ellipse( 0, 0, 330, 200 );
 
 
-  // Nose
-    strokeweight( 30 );
-    point( 100, 100 ); 
+
 }
