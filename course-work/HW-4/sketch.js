@@ -8,7 +8,7 @@ createCanvas( 500, 500 );
 
 function draw() {
   // background color
-  background( "blue" ); 
+  background( "blue" );
 
   // ********
   // Create sandbox
@@ -25,10 +25,7 @@ function draw() {
   ellipse( 0, 0, 330, 200 );
 
   // Nose
-  push();
-  Triangle ( 0, -20, 30, 20, -30, 20 );
-  pop();
-
+  
   pop();
 
   pop();

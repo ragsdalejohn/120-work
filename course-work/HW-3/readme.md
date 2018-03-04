@@ -1,6 +1,6 @@
 John Ragsdale, 50
 
-[ "Hello World!"" ](https://ragsdalejohn.github.io/120-work/HW-3/)
+[ "Hello World!"" ](https://ragsdalejohn.github.io/120-work/course-work/HW-3/)
 
 
 # HW-# Response
