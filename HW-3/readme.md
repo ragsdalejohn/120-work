@@ -1,3 +1,20 @@
-# Empty p5 sketch.
+John Ragsdale, 50
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+[ "Hello World!"" ](https://yourusername.github.io/120-work/HW-3/)
+
+
+# HW-# Response
+
+This week I followed the instructions given to the letter. I made only creative choices such as text used for hello world and color change for the background.
+
+The only isses I experienced towards this assignment was things lie spaces after closing quotes or forgetting "function" before an action like draw.
+
+### HW-3 Conclusion
+
+I was late with this assignment and could help no one, and no further discussion needed on this section.
+
+#### Final Sketch
+
+Here you go!
+
+![This is my final HW-3 Sketch](imgs/HW-3_Image.png) 
