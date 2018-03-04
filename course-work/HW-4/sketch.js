@@ -17,11 +17,7 @@ function draw() {
     strokeweight( 30 );
     point( 0, 0 );
 
-  // HEAD
-  stroke( 0 );
-  fill( "orange" );
-  ellipse( 0, 0, 330, 200 );
-
+  
 
 
 }
