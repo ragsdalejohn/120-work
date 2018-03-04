@@ -14,6 +14,6 @@ function draw() {
     text("'mouseY' : " + floor(mouseY), 10, 80 );
 
     // elipse to follow the mouse
-    fill(250, 200, 200);
+    fill(0, 200, 200);
     ellipse(mouseX, mouseY, 100, 100);
 }
