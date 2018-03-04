@@ -25,8 +25,10 @@ function draw() {
   ellipse( 0, 0, 330, 200 );
 
   // Nose
+  push();
   fill( "black" );
   Triangle ( 0, -20, 30, 20, -30, 20 );
+  pop(); 
 
   pop();
 
