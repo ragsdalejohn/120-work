@@ -10,14 +10,12 @@ function draw() {
   // background color
   background( 255 );
 
-  // move to center of canvas
-  translate( 250, 250 );
 
   // Nose
     strokeweight( 30 );
-    point( 0, 0 );
+    point( 10, -10 );
 
-  
+
 
 
 }
