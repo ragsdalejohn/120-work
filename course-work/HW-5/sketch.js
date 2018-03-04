@@ -8,7 +8,7 @@ function draw() {
     background( "Orange" )
     textSize(36);
     noStroke();
-    fill('white');
+    fill('green');
     text("'mouseX' : " + floor(mouseX), 10, 40 );
     text("'mouseY' : " + floor(mouseY), 10, 80 );
 }
