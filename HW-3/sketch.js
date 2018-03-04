@@ -13,5 +13,5 @@ function setup() {
 draw(){
 
   // using the text function, have p5 write "Eat my shorts!"
-  text( "Eat My Shorts!!!" 300,200 ); 
+  text( "Eat My Shorts!!!" 300,200 );
 }
