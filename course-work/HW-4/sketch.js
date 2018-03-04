@@ -26,7 +26,6 @@ function draw() {
 
   // Nose
   push();
-  fill( "black" );
   Triangle ( 0, -20, 30, 20, -30, 20 );
   pop();
 
