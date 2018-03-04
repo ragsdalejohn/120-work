@@ -8,13 +8,7 @@ createCanvas( 500, 500 );
 
 function draw() {
   // background color
-  background( 255 );
-
-
-  // Nose
-    strokeweight( 30 );
-    point( 10, -10 );
-
+  background( 225 );
 
 
 
