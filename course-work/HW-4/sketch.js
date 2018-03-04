@@ -8,7 +8,7 @@ createCanvas( 500, 500 );
 
 function draw() {
   // background color
-  background( "blue" )
+  background( "blue" ); 
 
   // ********
   // Create sandbox
