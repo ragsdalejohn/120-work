@@ -1,4 +1,6 @@
-// I am not purgering as much as borrowing code from the online youtube tutorials so I can understand it. I did some modifications so I can turn something in.
+// I am not purgering as much as borrowing code from the
+// online youtube tutorials so I can understand it.
+// I did some modifications so I can turn something in.
 
  // setup variable first
  var Boondoggle = 0
@@ -12,7 +14,9 @@
  function draw() {
 
    // play with the background
-   Boondoggle = mouseX/2;
+   // ----- Boondoggle = mouseX/2;
+   // Replace old function of Boondoggle with map function
+   Boondoggle = map(mouseX, 0, 600, 0, 255);
    background(Boondoggle);
 
    // create something for the cursor to follow
