@@ -10,7 +10,7 @@ background( "brown" );
 function draw() {
 
   // draw head - hope is lantern shaped
-  fill('orange');
+  fill( "orange" );
   ellipse( 250, 250, 300, 150);
 
   // draw dots for eyes
