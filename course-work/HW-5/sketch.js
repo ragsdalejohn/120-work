@@ -10,8 +10,8 @@ function draw() {
     textSize(36);
     noStroke();
     fill('green');
-    text("'mouseX' : " + floor(mouseX), 10, 40 );
-    text("'mouseY' : " + floor(mouseY), 10, 80 );
+    text("'mouseX' : " + floor(mouseX), 1200, 440 );
+    text("'mouseY' : " + floor(mouseY), 1200, 480 );
 
     // elipse to follow the mouse
     fill(0, 200, 200);
