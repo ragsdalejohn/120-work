@@ -8,25 +8,19 @@ createCanvas( 500, 500 );
 
 function draw() {
   // background color
-  background( "blue" );
-
-  // ********
-  // Create sandbox
-  push();
+  background( 255 );
 
   // move to center of canvas
   translate( 250, 250 );
 
   // HEAD
-  push();
-  translate( 0, -175 );
-
+  stroke( 0 );
   fill( "orange" );
   ellipse( 0, 0, 330, 200 );
 
-  // Nose
-  
-  pop();
 
-  pop();
+  // Nose
+  nostroke();
+  triangle( 0, 0, 20); 
+
 }
