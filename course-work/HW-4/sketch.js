@@ -9,10 +9,9 @@ background( "brown" );
 
 function draw() {
   // draw a dot
-  strokeWeight(20)
+  strokeWeight(500)
   point( 100, 50 )
-  point( 250, 50 )
-  point( 100, 250 )
+  point( 400, 50 )
   point( 250, 250 )
 
 }
