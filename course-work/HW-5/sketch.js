@@ -16,4 +16,8 @@ function draw() {
     // elipse to follow the mouse
     fill(0, 200, 200);
     ellipse(mouseX, mouseY, 100, 100);
+
+    // ok, so I have a blue ball that moves with the mouse and an indicattor
+    // in the lower right that tells the x and y position.
+    // I am not good at this. 
 }
