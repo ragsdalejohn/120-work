@@ -8,7 +8,7 @@ createCanvas( 600, 900 );
 
 function draw() {
   // background color
-  background( "black" )
+  background( "blue" )
 
   // ********
   // Create sandbox
@@ -28,7 +28,7 @@ function draw() {
   push();
   fill( "black" );
   Triangle ( 0, -20, 30, 20, -30, 20 );
-  pop(); 
+  pop();
 
   pop();
 
