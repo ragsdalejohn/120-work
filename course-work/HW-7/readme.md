@@ -1,4 +1,4 @@
-Your Name, Your Section Number
+John Ragsdale, Sect. 50
 
 [Live Sketch Link](Your Live Link)
 
@@ -10,11 +10,9 @@ Your Name, Your Section Number
 <!--
 --This is a Comment Block--
 
-Please describe what the original code is doing.
+The code is telling the program to start the ball in the upper left hand corner (at 1,1) and telling the ball to follow a diagonal path of y=x. When the ball would reduce in size (or leave the area) then the math is shifted to one of the variable getting a negative sign so the path is similiar to y=-x.
 
-Why is it working the way it is?
-What does each line do?
-How can you make the ball change direction?
+When the mouse is clicked, the direction changes by 1/2 and the speed changes by 10. WHen clicked again, will increase by same factor. When pressed a third time, the speed reduces back to 1/2.
 
 -->
 

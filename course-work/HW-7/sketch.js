@@ -1,5 +1,5 @@
 
-
+// setting the variables for the ball so the size and shape are consistent.
 let ball = {};
 ball.width = 40;
 ball.x = 10;
@@ -9,11 +9,12 @@ ball.delta_y = 1;
 ball.scale_x = 1;
 ball.scale_y = 1;
 
+// setup the code, background and area
+
 function setup() {
     createCanvas(windowWidth, 400);
-    background(255);
+    background(201);
 }
-
 
 
 function draw() {
@@ -33,7 +34,9 @@ function draw() {
     ellipse(ball.x, ball.y, ball.width, ball.width);
 }
 
+// I altered the dimensions to change the speed. Hope this works.
+
 function mousePressed() {
-    ball.scale_x = map(mouseX, 0, width, 0.5, 10);
-    ball.scale_y = map(mouseY, 0, height, 0.5, 10);
+    ball.scale_x = map(mouseX, 0, width, 0.5, 20);
+    ball.scale_y = map(mouseY, 0, height, 0.5, 20);
 }
