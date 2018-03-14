@@ -1,6 +1,6 @@
 John Ragsdale, Sect. 50
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://ragsdalejohn.github.io/120-work/course-work/HW-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
@@ -20,5 +20,5 @@ When the mouse is clicked, the direction changes by 1/2 and the speed changes by
 ## How did you alter the sketch?
 
 <!--
-I changed teh background to grey and increased the speed from 10 to 20. This meant everytime the mouse was clicked, the speed went from 1 to 20. 
+I changed teh background to grey and increased the speed from 10 to 20. This meant everytime the mouse was clicked, the speed went from 1 to 20.
 -->
