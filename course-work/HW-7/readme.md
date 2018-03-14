@@ -20,5 +20,5 @@ When the mouse is clicked, the direction changes by 1/2 and the speed changes by
 ## How did you alter the sketch?
 
 <!--
-Please describe how and why you changed the sketch?
+I changed teh background to grey and increased the speed from 10 to 20. This meant everytime the mouse was clicked, the speed went from 1 to 20. 
 -->
