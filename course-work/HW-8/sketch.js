@@ -1,9 +1,7 @@
-/**
- * @Author: Michael Musick <michaelmusick>
- * @Date:   10-20-2017
- * @Email:  michael.musick@umontana.edu
- * @Last modified date: 10-20-2017
- */
+
+// The original author: Michael Musick <michaelmusick>
+// I have modified this code from its original
+// 
 
 
 function setup() {
