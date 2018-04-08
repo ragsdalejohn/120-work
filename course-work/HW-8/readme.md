@@ -1,3 +1,5 @@
-Empty p5 sketch.
+John Ragsdale, 50
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+This file was not simple, but getting accomplished and simplistic as possible. I explained out each step to show the understanding on each step in the process. It took a while but I understand the code written and how it works.
+
+This was a challenge, but was rewarding when I figured it out! 

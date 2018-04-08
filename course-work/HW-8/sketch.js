@@ -24,19 +24,26 @@ let d = 30;
 let r = d / 2;
 // radius is = to diameter / 2
 
-
+// set up draw function
 function draw() {
+// set color of background
     background('rgb(3, 78, 115)');
 
-    // define drawing parameters
+    // filling the ellipses with a specific color
+    // and making them solid
     fill(255);
     noStroke();
 
-    // circle 0
+    // circle has a posotion of 0 with a width of 15
     pos_x = width * 0 / 10 + r;
+    // ellipse has a position of (0, 0) and diameter of 30
     ellipse(pos_x, pos_y, d);
 
+// position of y = 0 then ++ adds to the y value
+// and increases it
     pos_y++;
+    // if the position of y is greater than the height of 300
+    // then return y position back to 0
     if (pos_y > height) {
         pos_y = 0;
     }
