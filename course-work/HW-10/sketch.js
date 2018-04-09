@@ -12,7 +12,7 @@ function draw() {
     let r = result;
     // call our newly defined function
     addThings( num1, num2 );
-    whatInTheAss( result );
+
 }
 
 // Our newly defined function
@@ -27,7 +27,6 @@ function addThings( value1, value2 ) {
     text( result, width/2, height/2 );
 
 function whatInTheAss( r ) {
-    let r = result
     if r > 50 = "What in the ass???"
     textSize(36);
     textAlign( BOTTOM );
