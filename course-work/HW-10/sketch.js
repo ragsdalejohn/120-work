@@ -9,7 +9,7 @@ function draw() {
     // create numbers to pass our function
     let num1 = floor(random(0, 50));
     let num2 = floor(random(0, 50));
-    var result;
+    var result = value1 + value2;
     // call our newly defined function
     let num1 = value1;
     let num2 = value2;
@@ -20,7 +20,7 @@ function draw() {
 // Our newly defined function
 function addThings( value1, value2 ) {
     // 1. Add the values together. Store them into some variable.
-    let result = value1 + value2;
+    //let result = value1 + value2;
 
     // 2. Print the results as a string to the canvas.
     result = "The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.";
