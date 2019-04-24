@@ -28,6 +28,7 @@ function addThings( value1, value2 ) {
     textAlign( CENTER );
     text( result, width/2, height/2 );
 
+
 function whatInTheAss( result ) {
     if (result > 50) {
       text("What in the ass?", 50,50);
