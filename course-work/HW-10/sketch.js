@@ -11,8 +11,8 @@ function draw() {
     let num2 = floor(random(0, 50));
     var result = value1 + value2;
     // call our newly defined function
-    let num1 = value1;
-    let num2 = value2;
+    let value1 = num1;
+    let value2 = num2;
     addThings( value1, value2 );
 
 }
