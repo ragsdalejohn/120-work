@@ -15,7 +15,6 @@ function draw() {
 
 }
 
-
 // Our newly defined function
 function addThings( value1, value2 ) {
     // 1. Add the values together. Store them into some variable.
