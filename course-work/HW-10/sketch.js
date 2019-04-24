@@ -27,7 +27,13 @@ function addThings( value1, value2 ) {
     text( result, width/2, height/2 );
 
 function whatInTheAss( result ) {
-    result > 50 == "What in the ass???"
+    if (result > 50) {
+      text("What in the ass?", 50,50);
+    } else if (result < 50) {
+      text(result, 50,50);
+    }
+
+    //if (result > 50){ == "What in the ass???"
     textSize(36);
     textAlign( BOTTOM );
 
