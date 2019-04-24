@@ -21,9 +21,9 @@ function addThings( value1, value2 ) {
     //let result = value1 + value2;
 
     // 2. Print the results as a string to the canvas.
-    result = text("The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.");
+    //result = text("The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.");
 
-    //text("The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.", 40, 40);
+    text("The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.", 40, 40);
     textSize(18);
     textAlign( CENTER );
     text( result, width/2, height/2 );
