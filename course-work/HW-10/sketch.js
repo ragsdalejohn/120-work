@@ -25,6 +25,7 @@ function addThings( value1, value2 ) {
     // Display values and result
     // result = text("The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.");
 
+// worked with emily to correct, could not
     text("The result of adding '" + value1 + "' and '" + value2 + "' is '" + result + "'.", 40, 40);
     textSize(18);
     textAlign( CENTER );
