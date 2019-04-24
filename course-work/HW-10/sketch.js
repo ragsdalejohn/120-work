@@ -9,7 +9,7 @@ function draw() {
     // create numbers to pass our function
     let num1 = floor(random(0, 50));
     let num2 = floor(random(0, 50));
-    let r = result;
+    var result;
     // call our newly defined function
     addThings( num1, num2 );
 
