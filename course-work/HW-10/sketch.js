@@ -11,7 +11,9 @@ function draw() {
     let num2 = floor(random(0, 50));
     var result;
     // call our newly defined function
-    addThings( num1, num2 );
+    let num1 = value1;
+    let num2 = value2;
+    addThings( value1, value2 );
 
 }
 
