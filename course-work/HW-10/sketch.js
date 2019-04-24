@@ -7,12 +7,10 @@ function draw() {
     background( 'rgb(91, 255, 147)' );
 
     // create numbers to pass our function
-    let num1 = floor(random(0, 50));
-    let num2 = floor(random(0, 50));
+    let value1 = floor(random(0, 50));
+    let value2 = floor(random(0, 50));
     var result = value1 + value2;
     // call our newly defined function
-    let value1 = num1;
-    let value2 = num2;
     addThings( value1, value2 );
 
 }
