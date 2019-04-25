@@ -1,7 +1,7 @@
 //name objects
 //let img; ++ image of GRID ++
-let img1 = "Grid 2.jpg"
-let img2 = "CURSOR.jpg"
+let img1;
+let img2;
 // ++ define r for the class/constructor ++
 // ++ x and y starting positions? ++
 var x = position.x
@@ -11,7 +11,7 @@ var y = position.y
 //setup canvas
 ////////////////////////////////
 
-fuction setup(){
+//fuction setup(){
 
 // below is from Prof Musick to set image as background
 // I built on it by adding an additional loadImage and
