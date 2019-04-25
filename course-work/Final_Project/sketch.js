@@ -2,6 +2,7 @@
 //let img; ++ image of GRID ++
 let img1;
 let img2;
+
 // ++ define r for the class/constructor ++
 // ++ x and y starting positions? ++
 var x = position.x
